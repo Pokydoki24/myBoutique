@@ -13,6 +13,7 @@
 <body>
 	<h1>PokeFan Store</h1>
 	<p>Bienvenue sur la premiere boutique Pokemon</p>
+	<img src="#">
 
 	<nav>
 		<ul>
